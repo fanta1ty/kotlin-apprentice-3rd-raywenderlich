@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c60bc4e-a487-4cf2-bbdb-6616e10cf1a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_01/chapter_02.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/section_01/Chapter_01Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/section_01/Chapter_01Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_01/chapter_02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_01/chapter_02.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
