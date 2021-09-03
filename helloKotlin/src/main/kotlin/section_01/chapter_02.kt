@@ -133,6 +133,4 @@ fun main() {
 
     counter /= 2
     println(counter)
-
-    
 }
