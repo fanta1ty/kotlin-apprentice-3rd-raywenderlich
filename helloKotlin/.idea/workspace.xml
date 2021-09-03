@@ -7,7 +7,7 @@
     <list default="true" id="1c60bc4e-a487-4cf2-bbdb-6616e10cf1a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/section_01/Chapter_02Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/section_01/Chapter_02Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_01/chapter_02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_01/chapter_02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_01/chapter_03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_01/chapter_03.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1xX5GdewZPbYmGUFvFVF0lKUpW2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
