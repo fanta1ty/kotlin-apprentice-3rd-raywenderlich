@@ -1,6 +1,5 @@
 package section_01
 
-
 /*
 Key points:
 - You can use ranges to create a sequence of numbers, incrementing to move from one value to another.

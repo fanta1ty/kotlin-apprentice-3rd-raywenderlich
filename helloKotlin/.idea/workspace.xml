@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c60bc4e-a487-4cf2-bbdb-6616e10cf1a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_01/chapter_06.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/section_01/Chapter_05Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/section_01/Chapter_05Kt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_01/chapter_05.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_01/chapter_05.kt" afterDir="false" />
     </list>
@@ -17,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -49,7 +51,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter_05Kt">
+  <component name="RunManager" selected="Kotlin.Chapter_06Kt">
     <configuration name="Chapter_01Kt (1)" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_01.Chapter_01Kt" />
       <module name="helloKotlin" />
@@ -92,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section-01.chapter-01.StartKt" />
+    <configuration name="Chapter_06Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_01.Chapter_06Kt" />
       <module name="helloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter_06Kt" />
         <item itemvalue="Kotlin.Chapter_05Kt" />
         <item itemvalue="Kotlin.Chapter_04Kt" />
         <item itemvalue="Kotlin.Chapter_03Kt" />
         <item itemvalue="Kotlin.Chapter_02Kt" />
-        <item itemvalue="Kotlin.StartKt" />
       </list>
     </recent_temporary>
   </component>
