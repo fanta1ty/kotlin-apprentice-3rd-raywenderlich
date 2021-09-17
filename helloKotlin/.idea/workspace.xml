@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c60bc4e-a487-4cf2-bbdb-6616e10cf1a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_02/chapter_08.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/section_02/Chapter_08Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_02/chapter_08.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_02/chapter_08.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +95,8 @@
     <configuration name="Chapter_08Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_02.Chapter_08Kt" />
       <module name="helloKotlin" />
+      <option name="PROGRAM_PARAMETERS" value="do re mi fa sol la ti do" />
+      <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,6 +108,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Kotlin.Chapter_01Kt" />
+      <item itemvalue="Kotlin.Chapter_01Kt (1)" />
+      <item itemvalue="Kotlin.TestKt" />
+      <item itemvalue="Kotlin.Chapter_04Kt" />
+      <item itemvalue="Kotlin.Chapter_05Kt" />
+      <item itemvalue="Kotlin.Chapter_06Kt" />
+      <item itemvalue="Kotlin.Chapter_07Kt" />
+      <item itemvalue="Kotlin.Chapter_08Kt" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.Chapter_08Kt" />
