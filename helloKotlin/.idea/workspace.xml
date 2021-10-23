@@ -49,7 +49,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter_12Kt">
+  <component name="RunManager" selected="Kotlin.Chapter_13Kt">
     <configuration name="Chapter_01Kt (1)" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_01.Chapter_01Kt" />
       <module name="helloKotlin" />
@@ -60,15 +60,6 @@
     <configuration name="Chapter_01Kt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter_01Kt" />
       <module name="helloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chapter_08Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_02.Chapter_08Kt" />
-      <module name="helloKotlin" />
-      <option name="PROGRAM_PARAMETERS" value="do re mi fa sol la ti do" />
-      <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,6 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_03.Chapter_13Kt" />
+      <module name="helloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestKt" />
       <module name="helloKotlin" />
@@ -112,19 +110,19 @@
       <item itemvalue="Kotlin.Chapter_01Kt" />
       <item itemvalue="Kotlin.Chapter_01Kt (1)" />
       <item itemvalue="Kotlin.TestKt" />
-      <item itemvalue="Kotlin.Chapter_08Kt" />
       <item itemvalue="Kotlin.Chapter_09Kt" />
       <item itemvalue="Kotlin.Chapter_10Kt" />
       <item itemvalue="Kotlin.Chapter_11Kt" />
       <item itemvalue="Kotlin.Chapter_12Kt" />
+      <item itemvalue="Kotlin.Chapter_13Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter_13Kt" />
         <item itemvalue="Kotlin.Chapter_12Kt" />
         <item itemvalue="Kotlin.Chapter_11Kt" />
         <item itemvalue="Kotlin.Chapter_10Kt" />
         <item itemvalue="Kotlin.Chapter_09Kt" />
-        <item itemvalue="Kotlin.Chapter_08Kt" />
       </list>
     </recent_temporary>
   </component>
