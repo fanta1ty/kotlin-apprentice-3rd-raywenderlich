@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c60bc4e-a487-4cf2-bbdb-6616e10cf1a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_03/chapter_16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_03/Downloader.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/section_03/Chapter_16Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloKotlin/section_03/Chapter_16Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_03/chapter_16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_03/chapter_16.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
