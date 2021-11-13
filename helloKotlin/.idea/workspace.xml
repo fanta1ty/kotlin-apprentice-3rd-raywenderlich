@@ -53,7 +53,7 @@
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter_17Kt">
+  <component name="RunManager" selected="Kotlin.Chapter_18Kt">
     <configuration name="Chapter_01Kt (1)" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_01.Chapter_01Kt" />
       <module name="helloKotlin" />
@@ -63,13 +63,6 @@
     </configuration>
     <configuration name="Chapter_01Kt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter_01Kt" />
-      <module name="helloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chapter_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_03.Chapter_13Kt" />
       <module name="helloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,6 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter_18Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_03.Chapter_18Kt" />
+      <module name="helloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestKt" />
       <module name="helloKotlin" />
@@ -114,19 +114,19 @@
       <item itemvalue="Kotlin.Chapter_01Kt" />
       <item itemvalue="Kotlin.Chapter_01Kt (1)" />
       <item itemvalue="Kotlin.TestKt" />
-      <item itemvalue="Kotlin.Chapter_13Kt" />
       <item itemvalue="Kotlin.Chapter_14Kt" />
       <item itemvalue="Kotlin.Chapter_15Kt" />
       <item itemvalue="Kotlin.Chapter_16Kt" />
       <item itemvalue="Kotlin.Chapter_17Kt" />
+      <item itemvalue="Kotlin.Chapter_18Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter_18Kt" />
         <item itemvalue="Kotlin.Chapter_17Kt" />
         <item itemvalue="Kotlin.Chapter_16Kt" />
         <item itemvalue="Kotlin.Chapter_15Kt" />
         <item itemvalue="Kotlin.Chapter_14Kt" />
-        <item itemvalue="Kotlin.Chapter_13Kt" />
       </list>
     </recent_temporary>
   </component>
