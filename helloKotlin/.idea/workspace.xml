@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c60bc4e-a487-4cf2-bbdb-6616e10cf1a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/Battlefield.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/Robot.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/extensions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_22.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_21.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_21.kt" afterDir="false" />
     </list>
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -55,7 +53,7 @@
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter_21Kt">
+  <component name="RunManager" selected="Kotlin.Chapter_22Kt">
     <configuration name="Chapter_01Kt (1)" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_01.Chapter_01Kt" />
       <module name="helloKotlin" />
@@ -65,13 +63,6 @@
     </configuration>
     <configuration name="Chapter_01Kt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter_01Kt" />
-      <module name="helloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chapter_17Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_03.Chapter_17Kt" />
       <module name="helloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,6 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter_22Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_04.Chapter_22Kt" />
+      <module name="helloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestKt" />
       <module name="helloKotlin" />
@@ -116,19 +114,19 @@
       <item itemvalue="Kotlin.Chapter_01Kt" />
       <item itemvalue="Kotlin.Chapter_01Kt (1)" />
       <item itemvalue="Kotlin.TestKt" />
-      <item itemvalue="Kotlin.Chapter_17Kt" />
       <item itemvalue="Kotlin.Chapter_18Kt" />
       <item itemvalue="Kotlin.Chapter_19Kt" />
       <item itemvalue="Kotlin.Chapter_20Kt" />
       <item itemvalue="Kotlin.Chapter_21Kt" />
+      <item itemvalue="Kotlin.Chapter_22Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter_22Kt" />
         <item itemvalue="Kotlin.Chapter_21Kt" />
         <item itemvalue="Kotlin.Chapter_20Kt" />
         <item itemvalue="Kotlin.Chapter_19Kt" />
         <item itemvalue="Kotlin.Chapter_18Kt" />
-        <item itemvalue="Kotlin.Chapter_17Kt" />
       </list>
     </recent_temporary>
   </component>

@@ -1,7 +1,5 @@
 package section_04
 
-import kotlin.random.Random
-
 /*
 Key points:
 - Functional programming uses first-class functions, which can be passed as arguments, returned or assigned to variables
