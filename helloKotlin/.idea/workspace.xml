@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c60bc4e-a487-4cf2-bbdb-6616e10cf1a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_22.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/Company.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/Department.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/Employee.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_21.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_21.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_22.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_22.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -32,6 +35,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1xX5GdewZPbYmGUFvFVF0lKUpW2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -151,6 +157,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
