@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c60bc4e-a487-4cf2-bbdb-6616e10cf1a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../chapter_23/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/src/main/kotlin/Building.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/src/main/kotlin/Building.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/src/main/kotlin/BuildingYard.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/src/main/kotlin/BuildingYard.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter_23/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_23/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_23.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_23.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/chapter_24.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +54,7 @@
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter_23Kt">
+  <component name="RunManager" selected="Kotlin.Chapter_24Kt">
     <configuration name="Chapter_01Kt (1)" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_01.Chapter_01Kt" />
       <module name="helloKotlin" />
@@ -79,13 +64,6 @@
     </configuration>
     <configuration name="Chapter_01Kt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter_01Kt" />
-      <module name="helloKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chapter_19Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_04.Chapter_19Kt" />
       <module name="helloKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,6 +97,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter_24Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_04.Chapter_24Kt" />
+      <module name="helloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestKt" />
       <module name="helloKotlin" />
@@ -130,19 +115,19 @@
       <item itemvalue="Kotlin.Chapter_01Kt" />
       <item itemvalue="Kotlin.Chapter_01Kt (1)" />
       <item itemvalue="Kotlin.TestKt" />
-      <item itemvalue="Kotlin.Chapter_19Kt" />
       <item itemvalue="Kotlin.Chapter_20Kt" />
       <item itemvalue="Kotlin.Chapter_21Kt" />
       <item itemvalue="Kotlin.Chapter_22Kt" />
       <item itemvalue="Kotlin.Chapter_23Kt" />
+      <item itemvalue="Kotlin.Chapter_24Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter_24Kt" />
         <item itemvalue="Kotlin.Chapter_23Kt" />
         <item itemvalue="Kotlin.Chapter_22Kt" />
         <item itemvalue="Kotlin.Chapter_21Kt" />
         <item itemvalue="Kotlin.Chapter_20Kt" />
-        <item itemvalue="Kotlin.Chapter_19Kt" />
       </list>
     </recent_temporary>
   </component>
